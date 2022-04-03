@@ -11,7 +11,7 @@ catppuccin color scheme personal startpage
 
 ### installation
 
-## on arch
+#### on arch
 ```
 yay -S nerd-fonts-victor-mono
 git clone https://github.com/okklol/startpage.git
@@ -19,7 +19,7 @@ git clone https://github.com/okklol/startpage.git
 - download NewTabOverride (https://addons.mozilla.org/de/firefox/addon/new-tab-override/)
 - set options to "local file" and choose the ```index.html``` file
 
-## on other systems
+#### on other systems
 - download the font
 - ```git clone https://github.com/okklol/startpage.git```
 - ownload NewTabOverride (https://addons.mozilla.org/de/firefox/addon/new-tab-override/)
